@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IuNE4H0aIUP3NSsF43d00ehQmP5nAW+mD5AkPtPA6doGSPyaf18ylCHG639aEZTiqNp6wZJ1Yk2T6D+5zDvRIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EliMarvin\\source\\repos\\AutofacConsoleAppTutorial\\AutofacConsoleAppTutorial\\AutofacConsoleAppTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EliMarvin\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\EliMarvin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\bin\Debug\net6.0\AutofacConsoleAppTutorial.exe
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\bin\Debug\net6.0\AutofacConsoleAppTutorial.deps.json
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\bin\Debug\net6.0\AutofacConsoleAppTutorial.runtimeconfig.json
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\bin\Debug\net6.0\AutofacConsoleAppTutorial.dll
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\bin\Debug\net6.0\ref\AutofacConsoleAppTutorial.dll
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\bin\Debug\net6.0\AutofacConsoleAppTutorial.pdb
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\bin\Debug\net6.0\Autofac.dll
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\obj\Debug\net6.0\AutofacConsoleAppTutorial.csproj.AssemblyReference.cache
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\obj\Debug\net6.0\AutofacConsoleAppTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\obj\Debug\net6.0\AutofacConsoleAppTutorial.AssemblyInfoInputs.cache
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\obj\Debug\net6.0\AutofacConsoleAppTutorial.AssemblyInfo.cs
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\obj\Debug\net6.0\AutofacConsoleAppTutorial.csproj.CoreCompileInputs.cache
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\obj\Debug\net6.0\AutofacConsoleAppTutorial.csproj.CopyComplete
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\obj\Debug\net6.0\AutofacConsoleAppTutorial.dll
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\obj\Debug\net6.0\ref\AutofacConsoleAppTutorial.dll
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\obj\Debug\net6.0\AutofacConsoleAppTutorial.pdb
+C:\Users\EliMarvin\source\repos\AutofacConsoleAppTutorial\AutofacConsoleAppTutorial\obj\Debug\net6.0\AutofacConsoleAppTutorial.genruntimeconfig.cache
